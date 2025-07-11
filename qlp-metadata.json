@@ -1,0 +1,16 @@
+{
+  "github_url": "https://github.com/satishgonella2024/weather-api-web-app",
+  "shared_context": {
+    "language": "python",
+    "created_at": "2025-07-11T15:37:22.213014",
+    "updated_at": "2025-07-11T15:37:40.197884",
+    "main_file_name": "main.py",
+    "project_structure": "flat",
+    "architecture_pattern": "monolith"
+  },
+  "agent_tiers_used": [
+    "T0"
+  ],
+  "github_pushed_at": "2025-07-11T15:47:21.997783",
+  "total_execution_time": 18.913500000000003
+}
